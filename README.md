@@ -1347,3 +1347,7 @@ This preset requires "matchAppId" and will not work with the current v.0.27.0 re
 - Toggle network locations
 - Quit/reload MTMR button
 
+--- 
+
+@ranvirskh preset (look through my page im not able to figure out how to contribute)
+<img width="1085" alt="Touch Bar Shot 2025-06-24 at 11 05 39 PM" src="https://github.com/user-attachments/assets/f3426c87-0294-48af-873a-fd562152b519" />
